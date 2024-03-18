@@ -8,9 +8,12 @@ model = YOLO("omar head detection model.pt")
 results = model("image.png", show=True, save=True, show_labels=True) 
 ```
 # Examples
-![image](https://github.com/omarAlharbi1/my_head_detection_yolov8_model/assets/127057011/d1b55425-fc0e-4613-aac1-006f9ed93edf)
 
-https://github.com/omarAlharbi1/my_head_detection_yolov8_model/assets/127057011/0ad3bc05-4200-4d43-a9d5-8334605fe54b
+![image](https://github.com/omarAlharbi1/my_head_detection_yolov8_model/assets/127057011/3693e4f3-6139-451f-b889-981f0f5c0d07)
 
-https://github.com/omarAlharbi1/my_head_detection_yolov8_model/assets/127057011/5c18a868-8529-4771-9b9b-ddf0706a0bb0
+![image copy 3](https://github.com/omarAlharbi1/my_head_detection_yolov8_model/assets/127057011/dc7ba05f-b7ec-47ad-be01-50ea7752df46)
+
+https://github.com/omarAlharbi1/my_head_detection_yolov8_model/assets/127057011/ad93d2fd-a7c2-4bed-a24a-e0c073782223
+
+https://github.com/omarAlharbi1/my_head_detection_yolov8_model/assets/127057011/ea624b90-11b9-4c57-a680-fa15f9f0ac12
 
